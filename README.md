@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-** I am Emile Fidel Joseph Sr, an Aspiring Cloud Engineer focused on AWS + Terraform.
+## Hi there 👋 I am Emile Fidel Joseph Sr
+** An aspiring Cloud Engineer focused on AWS + Terraform.
 I build small, real projects every week and document my proof publicly.
 - 🔭 Current: S3 + IAM “Public Access Problem” lab
 - 🧰 Stack: 
@@ -11,4 +9,3 @@ I build small, real projects every week and document my proof publicly.
 **Let’s connect**
 - LinkedIn: https://www.linkedin.com/in/emile-josephsr
 
--->
